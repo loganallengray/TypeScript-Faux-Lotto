@@ -1,6 +1,10 @@
+import Page from './../../components/page/page';
+
 const Homepage = () => {
     return (
-        <p>test</p>
+        <Page>
+            <p>test</p>
+        </Page>
     )
 }
 
